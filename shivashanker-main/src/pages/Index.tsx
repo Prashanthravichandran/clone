@@ -12,8 +12,8 @@ import ScholarshipSection from '@/components/ScholarshipSection';
 import StudentStoriesScroll from '@/components/StudentStoriesScroll';
 
 const employeeData = {
-  name: "Shiva Shanker",
-  designation: "Head of Presales, Nxtwave",
+  name: "Anupam Pedarla",
+  designation: "Co-Founder & COO, Nxtwave",
   profileImage: "/lovable-uploads/1724134022331.jpeg"
 };
 
@@ -36,8 +36,8 @@ const notebookLines = [
   "You'll fail. That's fine. Keep building. Keep moving.",
   "Start small. But start now. You'll figure the rest out as you go.",
   "You've got this. I believe in you.",
-  "— Shiva Shanker,",
-  "Head of Presales, Nxtwave"
+  "— Anupam Pederla,",
+  "Co-Founder & COO, Nxtwave"
 ];
 
 const Index = () => {
