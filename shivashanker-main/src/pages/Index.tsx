@@ -14,8 +14,9 @@ import StudentStoriesScroll from '@/components/StudentStoriesScroll';
 const employeeData = {
   name: "Shiva Shanker",
   designation: "Head of Presales, Nxtwave",
-  profileImage: "/lovable-uploads/13667cc6-5cd8-4c0b-a1c5-d4d080b4718e.png"
+  profileImage: "/lovable-uploads/1724134022331.jpeg"
 };
+
 
 const scrollToSection = (ref: React.RefObject<HTMLDivElement>) => {
   if (ref.current) {
